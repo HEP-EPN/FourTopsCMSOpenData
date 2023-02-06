@@ -3252,5 +3252,21 @@
                 }
             ]
         }
+    },
+    "tttt": {
+        "nominal": {
+            "nevts_total": 404959,
+            "files": [
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files//TTTT_TuneCUETP8M1_13TeV-amcatnlo-pythia8/cmsopendata2015_tttt_PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1_10000.root",
+                    "nevts": 154959
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files//TTTT_TuneCUETP8M1_13TeV-amcatnlo-pythia8/cmsopendata2015_tttt_PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1_60000.root",
+                    "nevts": 250000
+                },
+            ],
+            
+        }
     }
 }
