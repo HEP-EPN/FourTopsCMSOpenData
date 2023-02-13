@@ -3253,19 +3253,21 @@
             ]
         }
     },
-    "tttt": {
-        "nominal": {
-            "nevts_total": 404959,
-            "files": [
-                {
-                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files//TTTT_TuneCUETP8M1_13TeV-amcatnlo-pythia8/cmsopendata2015_tttt_PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1_10000.root",
-                    "nevts": 154959
-                },
-                {
-                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files//TTTT_TuneCUETP8M1_13TeV-amcatnlo-pythia8/cmsopendata2015_tttt_PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1_60000.root",
-                    "nevts": 250000
-                }
-            ]
+    "signal" : {
+        "tttt": {
+            "nominal": {
+                "nevts_total": 404959,
+                "files": [
+                    {
+                        "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files//TTTT_TuneCUETP8M1_13TeV-amcatnlo-pythia8/cmsopendata2015_tttt_PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1_10000.root",
+                        "nevts": 154959
+                    },
+                    {
+                        "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files//TTTT_TuneCUETP8M1_13TeV-amcatnlo-pythia8/cmsopendata2015_tttt_PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1_60000.root",
+                        "nevts": 250000
+                    }
+                ]
+            }
         }
     },
     "data": {
@@ -3387,6 +3389,191 @@
                 {
                     "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files//SingleMuon/cmsopendata2015_Run2015D_SingleMuon_MINIAOD_16Dec2015-v1_38.root"
                 }                
+            ]
+        },
+        {
+        "SingleElectron": {
+            "files" : [
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_00.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_01.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_02.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_03.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_04.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_05.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_06.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_07.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_08.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_09.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_10.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_11.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_12.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_13.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_14.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_15.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_16.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_17.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_18.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_19.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_20.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_21.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_22.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_23.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_24.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_25.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_26.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_27.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_28.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_29.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_30.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_31.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_32.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_33.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_34.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_35.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_36.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_37.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_38.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_39.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_40.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_41.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_42.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_43.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_44.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_45.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_46.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_47.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_48.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_49.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_50.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_51.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_52.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_53.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_54.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_55.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_56.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_57.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_58.root"
+                },
+                {
+                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_59.root"
+                },
             ]
         }
     }
