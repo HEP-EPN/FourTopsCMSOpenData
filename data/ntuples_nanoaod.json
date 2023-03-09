@@ -3253,8 +3253,8 @@
             ]
         }
     },
-    "signal" : {
-        "tttt": {
+
+   "tttt": {
             "nominal": {
                 "nevts_total": 404959,
                 "files": [
@@ -3268,7 +3268,6 @@
                     }
                 ]
             }
-        }
     },
     "data": {
         "SingleMuon": {
@@ -3458,9 +3457,6 @@
                     "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_20.root"
                 },
                 {
-                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_21.root"
-                },
-                {
                     "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_22.root"
                 },
                 {
@@ -3494,9 +3490,6 @@
                     "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_32.root"
                 },
                 {
-                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_33.root"
-                },
-                {
                     "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_34.root"
                 },
                 {
@@ -3504,9 +3497,6 @@
                 },
                 {
                     "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_36.root"
-                },
-                {
-                    "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_37.root"
                 },
                 {
                     "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files/SingleElectron/cmsopendata2015_Run2015D_SingleElectron_MINIAOD_08Jun2016-v1_38.root"
