@@ -3285,7 +3285,7 @@
                     {
                         "path": "root://eosuser.cern.ch//eos/user/a/algomez/tmpFiles/opendata_files//TTTT_TuneCUETP8M1_13TeV-amcatnlo-pythia8/cmsopendata2015_tttt_PU25nsData2015v1_76X_mcRun2_asymptotic_v12_06.root",
                         "nevts": 12672
-                    },
+                    }
                 ]
             }
     },
